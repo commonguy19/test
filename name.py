@@ -1,4 +1,5 @@
 #Python code to ask for name and print message
+#This is second comment
 name = input("Enter your name: ")
 print ("Hi " + name)
 print("Welcome to the git World")
