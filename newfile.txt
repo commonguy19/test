@@ -1,3 +1,1 @@
-#This is new text file
-#master branch edit line
-#jan_branch new line1
+#This is branch first line1
